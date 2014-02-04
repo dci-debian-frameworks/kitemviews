@@ -1,0 +1,3 @@
+usr/include/KF5/
+usr/lib/*/*.so
+usr/lib/*/cmake/
