@@ -54,7 +54,7 @@ License: GPL-2
  the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
  Boston, MA 02110-1301, USA.
 
-Files: debian/*,
+Files: debian/*
        autotests/klistwidgetsearchlinetest.cpp
 Copyright: 2014 Jonathan Riddell <jriddell@ubuntu.com>
 License: GPL-2+

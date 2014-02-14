@@ -1,3 +1,4 @@
 usr/include/KF5/
 usr/lib/*/*.so
 usr/lib/*/cmake/
+usr/mkspecs/modules/qt_KItemViews.pri
