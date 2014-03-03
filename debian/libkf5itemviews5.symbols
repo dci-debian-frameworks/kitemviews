@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5ItemViews.so.4 libkf5itemviews4 #MINVER#
+libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN15KCategoryDrawer10mouseMovedERK11QModelIndexRK5QRectP11QMouseEvent@Base 4.96.0
  _ZN15KCategoryDrawer11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN15KCategoryDrawer11qt_metacastEPKc@Base 4.96.0
