@@ -30,7 +30,7 @@ Package: libkf5itemviews5
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
-Depends: libkf5itemviews5-data (= ${binary:Version}),
+Depends: libkf5itemviews5-data (= ${source:Version}),
          ${misc:Depends},
          ${shlibs:Depends}
 Description: Qt library with additional widgets for ItemModels
@@ -40,8 +40,8 @@ Description: Qt library with additional widgets for ItemModels
  This package is part of KDE Frameworks 5.
 
 Package: libkf5itemviews5-data
-Architecture: any
-Multi-Arch: same
+Architecture: all
+Multi-Arch: foreign
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: Qt library with additional widgets for ItemModels
