@@ -1,6 +1,6 @@
-kitemviews (5.0.0-0ubuntu1) UNRELEASED; urgency=medium
+kitemviews (5.0.0-0ubuntu1) utopic; urgency=medium
 
   [ Jonathan Riddell ]
   * Initial stable upstream release
 
- -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 10 Jul 2014 15:49:14 +0200
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 10 Jul 2014 15:49:38 +0200
