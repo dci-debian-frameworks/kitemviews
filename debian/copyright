@@ -23,9 +23,8 @@ License: LGPL-2+
  Library General Public License for more details.
  .
  You should have received a copy of the GNU Library General Public License
- along with this library; see the file COPYING.LIB.  If not, write to
- the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
- Boston, MA 02110-1301, USA.
+ along with this library; see the file COPYING.LIB.  If not,
+ see <http://www.gnu.org/licenses/>
  .
  On Debian systems, the complete text of the GNU Library General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
@@ -40,19 +39,21 @@ Copyright: 2003 Scott Wheeler <wheeler@kde.org>
    2005 Rafal Rzepecki <divide@users.sourceforge.net>
    2006 Hamish Rodda <rodda@kde.org>
 License: GPL-2
- This library is free software; you can redistribute it and/or
- modify it under the terms of the GNU Library General Public
- License version 2 as published by the Free Software Foundation.
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License version 2
+ as published by the Free Software Foundation.
  .
- This library is distributed in the hope that it will be useful,
+ This program is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- Library General Public License for more details.
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
  .
  You should have received a copy of the GNU Library General Public License
- along with this library; see the file COPYING.LIB.  If not, write to
- the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
- Boston, MA 02110-1301, USA.
+ along with this library; see the file COPYING.LIB.  If not,
+ see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
 Files: debian/*
        autotests/klistwidgetsearchlinetest.cpp
