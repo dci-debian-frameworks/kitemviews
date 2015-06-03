@@ -6,7 +6,7 @@ kitemviews (5.10.0-0ubuntu1) wily; urgency=medium
   [ Jonathan Riddell ]
   * New upstream release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Jun 2015 20:20:26 +0200
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Jun 2015 20:33:08 +0200
 
 kitemviews (5.9.0-1) experimental; urgency=medium
 
