@@ -1,3 +1,10 @@
+kitemviews (5.11.0-1) unstable; urgency=medium
+
+  * New upstream release (5.10.0).
+  * New upstream release (5.11.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Jun 2015 15:32:09 +0200
+
 kitemviews (5.10.0-0ubuntu1) wily; urgency=medium
 
   [ Maximiliano Curia ]
