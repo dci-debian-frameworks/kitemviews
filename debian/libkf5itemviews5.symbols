@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.96.0 amd64
+# SymbolsHelper-Confirmed: 5.14 amd64
 libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN15KCategoryDrawer10mouseMovedERK11QModelIndexRK5QRectP11QMouseEvent@Base 4.96.0
  _ZN15KCategoryDrawer11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
@@ -46,16 +46,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN16KCategorizedView5blockERK11QModelIndex@Base 4.96.0
  _ZN16KCategorizedView5blockERK7QString@Base 4.96.0
  _ZN16KCategorizedView5resetEv@Base 4.96.0
- _ZN16KCategorizedView7Private11blockHeightERK7QString@Base 4.96.0
- _ZN16KCategorizedView7Private12rowsInsertedERK11QModelIndexii@Base 4.96.0
- _ZN16KCategorizedView7Private13blockPositionERK7QString@Base 4.96.0
- _ZN16KCategorizedView7Private21regenerateAllElementsEv@Base 4.96.0
- _ZN16KCategorizedView7Private30_k_slotCollapseOrExpandClickedE11QModelIndex@Base 4.96.0
- _ZN16KCategorizedView7Private9blockRectERK11QModelIndex@Base 4.96.0
- _ZN16KCategorizedView7PrivateC1EPS_@Base 4.96.0
- _ZN16KCategorizedView7PrivateC2EPS_@Base 4.96.0
- _ZN16KCategorizedView7PrivateD1Ev@Base 4.96.0
- _ZN16KCategorizedView7PrivateD2Ev@Base 4.96.0
  _ZN16KCategorizedView8setModelEP18QAbstractItemModel@Base 4.96.0
  _ZN16KCategorizedView9dropEventEP10QDropEvent@Base 4.96.0
  _ZN16KCategorizedView9startDragE6QFlagsIN2Qt10DropActionEE@Base 4.96.0
@@ -111,14 +101,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN21KTreeWidgetSearchLine21canChooseColumnsCheckEv@Base 4.96.0
  _ZN21KTreeWidgetSearchLine21setKeepParentsVisibleEb@Base 4.96.0
  _ZN21KTreeWidgetSearchLine5eventEP6QEvent@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private12checkColumnsEv@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private14_k_queueSearchERK7QString@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private17_k_activateSearchEv@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private20_k_treeWidgetDeletedEP7QObject@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private22_k_slotColumnActivatedEP7QAction@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private23checkItemParentsVisibleEP15QTreeWidgetItem@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private24_k_slotAllVisibleColumnsEv@Base 4.96.0
- _ZN21KTreeWidgetSearchLine7Private26checkItemParentsNotVisibleEP11QTreeWidget@Base 4.96.0
  _ZN21KTreeWidgetSearchLineC1EP7QWidgetP11QTreeWidget@Base 4.96.0
  _ZN21KTreeWidgetSearchLineC1EP7QWidgetRK5QListIP11QTreeWidgetE@Base 4.96.0
  _ZN21KTreeWidgetSearchLineC2EP7QWidgetP11QTreeWidget@Base 4.96.0
@@ -129,8 +111,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN22KFilterProxySearchLine11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
  _ZN22KFilterProxySearchLine11qt_metacastEPKc@Base 4.96.0
  _ZN22KFilterProxySearchLine16staticMetaObjectE@Base 4.96.0
- _ZN22KFilterProxySearchLine7Private20slotSearchLineChangeERK7QString@Base 4.96.0
- _ZN22KFilterProxySearchLine7Private22slotSearchLineActivateEv@Base 4.96.0
  _ZN22KFilterProxySearchLine7setTextERK7QString@Base 4.96.0
  _ZN22KFilterProxySearchLine8setProxyEP21QSortFilterProxyModel@Base 4.96.0
  _ZN22KFilterProxySearchLineC1EP7QWidget@Base 4.96.0
@@ -150,10 +130,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN23KExtendableItemDelegate16staticMetaObjectE@Base 4.96.0
  _ZN23KExtendableItemDelegate17extenderDestroyedEP7QWidgetRK11QModelIndex@Base 4.96.0
  _ZN23KExtendableItemDelegate17setContractPixmapERK7QPixmap@Base 4.96.0
- _ZN23KExtendableItemDelegate7Private15deleteExtendersEv@Base 4.96.0
- _ZN23KExtendableItemDelegate7Private17_k_verticalScrollEv@Base 4.96.0
- _ZN23KExtendableItemDelegate7Private24scheduleUpdateViewLayoutEv@Base 4.96.0
- _ZN23KExtendableItemDelegate7Private29_k_extenderDestructionHandlerEP7QObject@Base 4.96.0
  _ZN23KExtendableItemDelegateC1EP17QAbstractItemView@Base 4.96.0
  _ZN23KExtendableItemDelegateC2EP17QAbstractItemView@Base 4.96.0
  _ZN23KExtendableItemDelegateD0Ev@Base 4.96.0
@@ -189,16 +165,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZNK16KCategorizedView15categorySpacingEv@Base 4.96.0
  _ZNK16KCategorizedView17collapsibleBlocksEv@Base 4.96.0
  _ZNK16KCategorizedView22alternatingBlockColorsEv@Base 4.96.0
- _ZNK16KCategorizedView7Private13isCategorizedEv@Base 4.96.0
- _ZNK16KCategorizedView7Private13mapToViewportERK5QRect@Base 4.96.0
- _ZNK16KCategorizedView7Private13viewportWidthEv@Base 4.96.0
- _ZNK16KCategorizedView7Private15mapFromViewportERK5QRect@Base 4.96.0
- _ZNK16KCategorizedView7Private16categoryForIndexERK11QModelIndex@Base 4.96.0
- _ZNK16KCategorizedView7Private21leftToRightVisualRectERK11QModelIndexRNS0_4ItemERKNS0_5BlockERK6QPoint@Base 4.96.0
- _ZNK16KCategorizedView7Private21topToBottomVisualRectERK11QModelIndexRNS0_4ItemERKNS0_5BlockERK6QPoint@Base 4.96.0
- _ZNK16KCategorizedView7Private23highestElementInLastRowERKNS0_5BlockE@Base 4.96.0
- _ZNK16KCategorizedView7Private27intersectingIndexesWithRectERK5QRect@Base 4.96.0
- _ZNK16KCategorizedView7Private7hasGridEv@Base 4.96.0
  _ZNK16KCategorizedView7indexAtERK6QPoint@Base 4.96.0
  _ZNK19KWidgetItemDelegate10metaObjectEv@Base 4.96.0
  _ZNK19KWidgetItemDelegate12focusedIndexEv@Base 4.96.0
@@ -217,7 +183,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZNK21KTreeWidgetSearchLine13searchColumnsEv@Base 4.96.0
  _ZNK21KTreeWidgetSearchLine15caseSensitivityEv@Base 4.96.0
  _ZNK21KTreeWidgetSearchLine18keepParentsVisibleEv@Base 4.96.0
- _ZNK21KTreeWidgetSearchLine7Private15_k_rowsInsertedERK11QModelIndexii@Base 4.96.0
  _ZNK22KFilterProxySearchLine10metaObjectEv@Base 4.96.0
  _ZNK22KFilterProxySearchLine8lineEditEv@Base 4.96.0
  _ZNK23KExtendableItemDelegate10isExtendedERK11QModelIndex@Base 4.96.0
@@ -225,8 +190,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZNK23KExtendableItemDelegate12extenderRectEP7QWidgetRK20QStyleOptionViewItemRK11QModelIndex@Base 4.96.0
  _ZNK23KExtendableItemDelegate22updateExtenderGeometryEP7QWidgetRK20QStyleOptionViewItemRK11QModelIndex@Base 4.96.0
  _ZNK23KExtendableItemDelegate5paintEP8QPainterRK20QStyleOptionViewItemRK11QModelIndex@Base 4.96.0
- _ZNK23KExtendableItemDelegate7Private17maybeExtendedSizeERK20QStyleOptionViewItemRK11QModelIndex@Base 4.96.0
- _ZNK23KExtendableItemDelegate7Private30indexOfExtendedColumnInSameRowERK11QModelIndex@Base 4.96.0
  _ZNK23KExtendableItemDelegate8sizeHintERK20QStyleOptionViewItemRK11QModelIndex@Base 4.96.0
  _ZNK27KTreeWidgetSearchLineWidget10metaObjectEv@Base 4.96.0
  _ZNK27KTreeWidgetSearchLineWidget10searchLineEv@Base 4.96.0
