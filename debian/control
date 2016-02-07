@@ -54,17 +54,3 @@ Description: Qt library with additional widgets for ItemModels
  This package is part of KDE Frameworks 5.
  .
  This package contains the translations.
-
-Package: libkf5itemviews5-dbg
-Architecture: any
-Multi-Arch: same
-Priority: extra
-Section: debug
-Depends: libkf5itemviews5 (= ${binary:Version}), ${misc:Depends}
-Description: Qt library with additional widgets for ItemModels
- A Qt library which contains additional widgets for ItemModels, such as
- grouping into categories and filtering
- .
- This package is part of KDE Frameworks 5.
- .
- This package contains the debug symbols.
