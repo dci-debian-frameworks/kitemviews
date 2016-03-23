@@ -1,3 +1,14 @@
+kitemviews (5.20.0-1~1.gbp64e177) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @64e177109dcbd792c079972400589b5804ad8def **
+
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 23 Mar 2016 22:39:18 +0100
+
 kitemviews (5.19.0-1) experimental; urgency=medium
 
   * New upstream release (5.19.0).
