@@ -1,6 +1,6 @@
-kitemviews (5.20.0-1~5.gbp24a5bd) UNRELEASED; urgency=medium
+kitemviews (5.20.0-1~6.gbpbb249a) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @24a5bd036623c8457398203d75dcd2a49d644714 **
+  ** SNAPSHOT build @bb249a4d5d43f28f1e80089f2b37f4f056bbabbb **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
@@ -10,8 +10,9 @@ kitemviews (5.20.0-1~5.gbp24a5bd) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 13:26:37 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 29 Mar 2016 23:21:12 +0200
 
 kitemviews (5.19.0-1) experimental; urgency=medium
 
