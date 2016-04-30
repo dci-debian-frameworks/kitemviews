@@ -1,6 +1,6 @@
-kitemviews (5.21.0-1~1.gbpbd700d) UNRELEASED; urgency=medium
+kitemviews (5.21.0-1~2.gbpdc1f78) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @bd700d9356d32799e34f5788ff6d0470f128c54d **
+  ** SNAPSHOT build @dc1f783c4fe379974f1459c0fea989d13d115df7 **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @3b36ee4bd9a1c663ddd817d5cc77177681a5963c **
@@ -22,10 +22,11 @@ kitemviews (5.21.0-1~1.gbpbd700d) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 09:26:17 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 30 Apr 2016 20:04:43 +0200
 
 kitemviews (5.19.0-1) experimental; urgency=medium
 
