@@ -1,10 +1,9 @@
-kitemviews (5.22.0-1~1.gbp19a5ac) UNRELEASED; urgency=medium
+kitemviews (5.22.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @19a5ac2827c0e9ee232f0cbc11b79f6d41107b62 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sun, 15 May 2016 18:26:34 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 19 May 2016 00:12:28 +0200
 
 kitemviews (5.21.0-1) experimental; urgency=medium
 
