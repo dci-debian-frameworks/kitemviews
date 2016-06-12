@@ -1,3 +1,11 @@
+kitemviews (5.23.0-1~1.gbp8ab763) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @8ab76389436f2900e00e5436f0b9d4092e43df38 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 13 Jun 2016 00:26:30 +0200
+
 kitemviews (5.22.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
