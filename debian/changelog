@@ -1,17 +1,12 @@
-kitemviews (5.25.0-1~2.gbp36bcbe) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @36bcbe4e3644fe67e983e77d747e68c99ca8e400 **
+kitemviews (5.25.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @ce4b43df21f517efbe1ecd4dcae0d18675034941 **
-
-  * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * Bump group breaks (5.25)
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:26:15 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:19:31 +0200
 
 kitemviews (5.23.0-1) unstable; urgency=medium
 
