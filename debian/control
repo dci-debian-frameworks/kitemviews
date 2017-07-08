@@ -29,10 +29,10 @@ Description: Qt library with additional widgets for ItemModels
  .
  This package contains the development files.
 Breaks: kio-dev (<< 5.28),
-        libkf5iconthemes-dev (<< 5.35),
-        libkf5kcmutils-dev (<< 5.35),
-        libkf5kio-dev (<< 5.35),
-        libkf5xmlgui-dev (<< 5.35)
+        libkf5iconthemes-dev (<< 5.36),
+        libkf5kcmutils-dev (<< 5.36),
+        libkf5kio-dev (<< 5.36),
+        libkf5xmlgui-dev (<< 5.36)
 
 Package: libkf5itemviews5
 Architecture: any
@@ -45,16 +45,16 @@ Description: Qt library with additional widgets for ItemModels
  grouping into categories and filtering
  .
  This package is part of KDE Frameworks 5.
-Breaks: kdesignerplugin (<< 5.35),
-        kio (<< 5.35),
-        libkf5iconthemes5 (<< 5.35),
-        libkf5kcmutils5 (<< 5.35),
-        libkf5kdelibs4support5-bin (<< 5.35),
-        libkf5kiofilewidgets5 (<< 5.35),
-        libkf5newstuff5 (<< 5.35),
-        libkf5peoplewidgets5 (<< 5.35),
-        libkf5texteditor5 (<< 5.35),
-        libkf5xmlgui5 (<< 5.35)
+Breaks: kdesignerplugin (<< 5.36),
+        kio (<< 5.36),
+        libkf5iconthemes5 (<< 5.36),
+        libkf5kcmutils5 (<< 5.36),
+        libkf5kdelibs4support5-bin (<< 5.36),
+        libkf5kiofilewidgets5 (<< 5.36),
+        libkf5newstuff5 (<< 5.36),
+        libkf5peoplewidgets5 (<< 5.36),
+        libkf5texteditor5 (<< 5.36),
+        libkf5xmlgui5 (<< 5.36)
 
 Package: libkf5itemviews-data
 Architecture: all
