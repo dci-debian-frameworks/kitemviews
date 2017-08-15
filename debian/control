@@ -5,22 +5,38 @@ Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake (>= 3.0~),
                debhelper (>= 9),
+               doxygen,
                extra-cmake-modules (>= 5.37.0~),
+               graphviz,
+               libqt5sql5-sqlite,
                pkg-kde-tools (>= 0.15.15ubuntu1~),
                qtbase5-dev (>= 5.7.0~),
                qttools5-dev (>= 5.4),
-               qttools5-dev-tools (>= 5.4)
+               qttools5-dev-tools (>= 5.4),
 Standards-Version: 4.0.0
 Homepage: https://projects.kde.org/projects/frameworks/kitemviews
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/frameworks/kitemviews.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/frameworks/kitemviews.git
+
+Package: libkf5itemviews-data
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Qt library with additional widgets for ItemModels
+ A Qt library which contains additional widgets for ItemModels, such as
+ grouping into categories and filtering
+ .
+ This package is part of KDE Frameworks 5.
+ .
+ This package contains the translations.
 
 Package: libkf5itemviews-dev
 Architecture: any
 Section: libdevel
 Depends: libkf5itemviews5 (= ${binary:Version}),
          qtbase5-dev (>= 5.7.0~),
-         ${misc:Depends}
+         ${misc:Depends},
+Recommends: libkf5itemviews-doc (= ${source:Version})
 Description: Qt library with additional widgets for ItemModels
  A Qt library which contains additional widgets for ItemModels, such as
  grouping into categories and filtering
@@ -32,14 +48,26 @@ Breaks: kio-dev (<< 5.28),
         libkf5iconthemes-dev (<< 5.37),
         libkf5kcmutils-dev (<< 5.37),
         libkf5kio-dev (<< 5.37),
-        libkf5xmlgui-dev (<< 5.37)
+        libkf5xmlgui-dev (<< 5.37),
+
+Package: libkf5itemviews-doc
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Qt library with additional widgets for ItemModels (documentation)
+ A Qt library which contains additional widgets for ItemModels, such as
+ grouping into categories and filtering
+ .
+ This package is part of KDE Frameworks 5.
+ .
+ This package contains the qch documentation files.
 
 Package: libkf5itemviews5
 Architecture: any
 Multi-Arch: same
 Depends: libkf5itemviews-data (= ${source:Version}),
          ${misc:Depends},
-         ${shlibs:Depends}
+         ${shlibs:Depends},
 Description: Qt library with additional widgets for ItemModels
  A Qt library which contains additional widgets for ItemModels, such as
  grouping into categories and filtering
@@ -54,16 +82,4 @@ Breaks: kdesignerplugin (<< 5.37),
         libkf5newstuff5 (<< 5.37),
         libkf5peoplewidgets5 (<< 5.37),
         libkf5texteditor5 (<< 5.37),
-        libkf5xmlgui5 (<< 5.37)
-
-Package: libkf5itemviews-data
-Architecture: all
-Multi-Arch: foreign
-Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: Qt library with additional widgets for ItemModels
- A Qt library which contains additional widgets for ItemModels, such as
- grouping into categories and filtering
- .
- This package is part of KDE Frameworks 5.
- .
- This package contains the translations.
+        libkf5xmlgui5 (<< 5.37),
