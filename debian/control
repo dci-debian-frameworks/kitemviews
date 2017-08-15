@@ -61,6 +61,7 @@ Description: Qt library with additional widgets for ItemModels (documentation)
  This package is part of KDE Frameworks 5.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5itemviews5
 Architecture: any
