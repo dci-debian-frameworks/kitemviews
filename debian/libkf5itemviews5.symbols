@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 5.14.0 amd64
+# SymbolsHelper-Confirmed: 5.41.0 amd64
 libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN15KCategoryDrawer10mouseMovedERK11QModelIndexRK5QRectP11QMouseEvent@Base 4.96.0
  _ZN15KCategoryDrawer11qt_metacallEN11QMetaObject4CallEiPPv@Base 4.96.0
@@ -68,13 +68,6 @@ libKF5ItemViews.so.5 libkf5itemviews5 #MINVER#
  _ZN21KListWidgetSearchLine13setListWidgetEP11QListWidget@Base 4.96.0
  _ZN21KListWidgetSearchLine16staticMetaObjectE@Base 4.96.0
  _ZN21KListWidgetSearchLine18setCaseSensitivityEN2Qt15CaseSensitivityE@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate14_k_dataChangedERK11QModelIndexS3_@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate14_k_queueSearchERK7QString@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate15_k_rowsInsertedERK11QModelIndexii@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate17_k_activateSearchEv@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate17updateHiddenStateEii@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate20_k_listWidgetDeletedEv@Base 4.96.0
- _ZN21KListWidgetSearchLine28KListWidgetSearchLinePrivate4initEP11QListWidget@Base 4.96.0
  _ZN21KListWidgetSearchLine5clearEv@Base 4.96.0
  _ZN21KListWidgetSearchLine5eventEP6QEvent@Base 4.96.0
  _ZN21KListWidgetSearchLineC1EP7QWidgetP11QListWidget@Base 4.96.0
